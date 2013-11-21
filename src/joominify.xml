@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<extension type="plugin" version="3.1" group="system">
+	<name>Joominify</name>
+	<author>BlazeWorx</author>
+	<creationDate>18 Nov 2013</creationDate>
+	<copyright>(C) BlazeWorx.com</copyright>
+	<license>GNU/GPL</license>
+	<authorEmail>alex@blazeworx.com</authorEmail>
+	<authorUrl>www.blazeworx.com/joominify</authorUrl>
+	<version>v1.0</version>
+	<description><![CDATA[
+	This plugin compresses the HTML output from your Joomla site reducing the overall response size of your pages.
+	]]></description>
+	<files>
+		<filename plugin="joominify">joominify.php</filename>
+	</files>
+</extension>
