@@ -7,6 +7,8 @@ This plugin is for Joomla 2.5 or greater (tested to 3.2). It may also work on 1.
 
 Except as otherwise noted, the Joominify Plugin is licensed under the GNU/GPL License.
 
+Inspired by Fitztrev's [HTML Minifier for Laravel](https://github.com/fitztrev/laravel-html-minify)
+
 Download
 --------
 
