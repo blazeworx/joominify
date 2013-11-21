@@ -10,7 +10,7 @@ Except as otherwise noted, the Joominify Plugin is licensed under the GNU/GPL Li
 Download
 --------
 
-The [plugin distribution zip](https://github.com/blazeworx/joominify/dist/plg_joominify_1.0.zip) file `plg_joominify_1.0.zip` can be found in the `dist` folder.
+The [plugin distribution zip](https://github.com/blazeworx/joominify/raw/master/dist/plg_joominify_1.0.zip) file `plg_joominify_1.0.zip` can be found in the `dist` folder.
 
 Usage
 -----
